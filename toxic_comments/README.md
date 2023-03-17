@@ -6,13 +6,13 @@
 Постройте модель со значением метрики качества *F1* не меньше 0.75. 
 
 ## Используемые библиотеки
-pandas
-numpy
-sklearn
-nltk
-re
-torch
-transformers
-tqdm
-catboost
-wordcloud
+- pandas
+- numpy
+- sklearn
+- nltk
+- re
+- torch
+- transformers
+- tqdm
+- catboost
+- wordcloud
