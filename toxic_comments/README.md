@@ -8,13 +8,4 @@
  
 
 ## Используемые библиотеки
-- pandas
-- numpy
-- sklearn
-- nltk
-- re
-- torch
-- transformers
-- tqdm
-- catboost
-- wordcloud
+pandas, numpy, sklearn, nltk, re, torch, transformers, tqdm, catboost, wordcloud
