@@ -15,5 +15,5 @@
 | [Определение стоимости автомобилей](https://github.com/karasevdy/yandex_pr_projects/tree/main/Cars) |Построить модель, предсказывающую стоимость автомобиля на основе его характеристик| *python* |
 | [Заказы такси](https://github.com/karasevdy/yandex_pr_projects/tree/main/taxi) |Построить модель, прогнозирующую количество заказов такси на следующий час с заданной точностью на основе временных рядов Яндекс.Такси| *python* |
 | [Токсичные комментарии (NLP)](https://github.com/karasevdy/yandex_pr_projects/tree/main/toxic_comments) |Разработать модель, классифицирующую комментарии на токсичные и нет с заданной точностью, чтобы интернет-магазин мог отправлять токсичные на модерацию| *python* |
-| [Определение возраста (CV)](https://github.com/karasevdy/yandex_pr_projects/tree/main/CV_age_detection) |Построить модель, которая по фотографии определит возраст человека| *python* |
+| [Определение возраста (CV)](https://github.com/karasevdy/yandex_pr_projects/tree/main/CV_age_detection) |Построить модель, которая по фотографии определит возраст человека| *pandas, numpy, matplotlib, keras* |
 | [Телеком](https://github.com/karasevdy/yandex_pr_projects/tree/main/Telecom) |Разработать модель, прогнозирующую отток клиентов с заданной точностью, с целью запуска промо-акции, минимизирующей издержки бизнеса от оттока клиентов| *python* |
