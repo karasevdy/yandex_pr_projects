@@ -30,3 +30,4 @@
 - `NumberOfPictures` — количество фотографий автомобиля
 
 ## Используемые библиотеки
+*pandas, numpy, matplotlib, seaborn, sklearn, time, catboost, lightgbm*
