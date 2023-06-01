@@ -12,4 +12,4 @@
 - Стоимость услуг за единицу сверх тарифного пакета
 
 ## Используемые библиотеки:
-*pandas, *
+*pandas, numpy, matplotlib, seaborn, sklearn*
