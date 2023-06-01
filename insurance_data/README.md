@@ -12,4 +12,4 @@
 - страховые выплаты за последние 5 лет.
 
 ## Используемые библиотеки
-*pandas*
+*pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, patsy, scipy, phik*
