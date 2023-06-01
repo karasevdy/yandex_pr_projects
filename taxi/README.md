@@ -5,3 +5,5 @@
 ## Описание данных
 - дата и время (с интервалом 10 мин.)
 - количество заказов в интервал
+## Используемые библиотеки
+*pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, catboost, lightgbm, prophet*
